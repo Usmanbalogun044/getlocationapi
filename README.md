@@ -1,2 +1,1 @@
-# getlocationapi
- 
+##GET LOCATION API
